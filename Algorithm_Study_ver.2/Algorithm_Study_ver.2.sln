@@ -23,6 +23,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "009. 모두의 약수", "00
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "010. 자릿수의 합", "010. 자릿수의 합\010. 자릿수의 합.vcxproj", "{9C01C6F9-5912-460E-B58F-81C9E607D643}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "011. 숫자의 총 개수(small)", "011. 숫자의 총 개수(small)\011. 숫자의 총 개수(small).vcxproj", "{CCA2595B-0DED-40D0-B757-B81CF0F80E60}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -111,6 +113,14 @@ Global
 		{9C01C6F9-5912-460E-B58F-81C9E607D643}.Release|x64.Build.0 = Release|x64
 		{9C01C6F9-5912-460E-B58F-81C9E607D643}.Release|x86.ActiveCfg = Release|Win32
 		{9C01C6F9-5912-460E-B58F-81C9E607D643}.Release|x86.Build.0 = Release|Win32
+		{CCA2595B-0DED-40D0-B757-B81CF0F80E60}.Debug|x64.ActiveCfg = Debug|x64
+		{CCA2595B-0DED-40D0-B757-B81CF0F80E60}.Debug|x64.Build.0 = Debug|x64
+		{CCA2595B-0DED-40D0-B757-B81CF0F80E60}.Debug|x86.ActiveCfg = Debug|Win32
+		{CCA2595B-0DED-40D0-B757-B81CF0F80E60}.Debug|x86.Build.0 = Debug|Win32
+		{CCA2595B-0DED-40D0-B757-B81CF0F80E60}.Release|x64.ActiveCfg = Release|x64
+		{CCA2595B-0DED-40D0-B757-B81CF0F80E60}.Release|x64.Build.0 = Release|x64
+		{CCA2595B-0DED-40D0-B757-B81CF0F80E60}.Release|x86.ActiveCfg = Release|Win32
+		{CCA2595B-0DED-40D0-B757-B81CF0F80E60}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
