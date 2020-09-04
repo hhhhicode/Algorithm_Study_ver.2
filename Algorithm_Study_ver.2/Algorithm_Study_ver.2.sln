@@ -17,6 +17,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "006. 숫자만 추출", "00
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "007. 영어단어 복구", "007. 영어단어 복구\007. 영어단어 복구.vcxproj", "{22FFD270-26F3-4E5E-BC0E-B667947B091A}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "008. 올바른 괄호", "008. 올바른 괄호\008. 올바른 괄호.vcxproj", "{4D9AC96E-0AE4-46A6-83F4-211CF367E294}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -81,6 +83,14 @@ Global
 		{22FFD270-26F3-4E5E-BC0E-B667947B091A}.Release|x64.Build.0 = Release|x64
 		{22FFD270-26F3-4E5E-BC0E-B667947B091A}.Release|x86.ActiveCfg = Release|Win32
 		{22FFD270-26F3-4E5E-BC0E-B667947B091A}.Release|x86.Build.0 = Release|Win32
+		{4D9AC96E-0AE4-46A6-83F4-211CF367E294}.Debug|x64.ActiveCfg = Debug|x64
+		{4D9AC96E-0AE4-46A6-83F4-211CF367E294}.Debug|x64.Build.0 = Debug|x64
+		{4D9AC96E-0AE4-46A6-83F4-211CF367E294}.Debug|x86.ActiveCfg = Debug|Win32
+		{4D9AC96E-0AE4-46A6-83F4-211CF367E294}.Debug|x86.Build.0 = Debug|Win32
+		{4D9AC96E-0AE4-46A6-83F4-211CF367E294}.Release|x64.ActiveCfg = Release|x64
+		{4D9AC96E-0AE4-46A6-83F4-211CF367E294}.Release|x64.Build.0 = Release|x64
+		{4D9AC96E-0AE4-46A6-83F4-211CF367E294}.Release|x86.ActiveCfg = Release|Win32
+		{4D9AC96E-0AE4-46A6-83F4-211CF367E294}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
