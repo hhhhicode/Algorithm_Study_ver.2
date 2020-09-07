@@ -4,6 +4,7 @@
 #include <iostream>
 #include <tuple>
 
+// typedef
 typedef std::tuple<int, int> myTuple;
 myTuple tupleCompare(const myTuple& a, const myTuple& b)
 {
@@ -30,7 +31,9 @@ int main()
 	cin >> numbers;
 
 	int number = 0;
+	// tuple
 	tuple<int, int> max(0, 0); // 개수, 숫자
+	// function pointer
 	myTuple(*fnc_ptr)(const myTuple&, const myTuple&) = tupleCompare;
 	for (int i = 0; numbers[i] != '\0'; i++)
 	{
