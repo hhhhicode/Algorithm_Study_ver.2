@@ -29,6 +29,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "012. 숫자의 총 개수(l
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "013. 가장 많이 사용된 자릿수", "013. 가장 많이 사용된 자릿수\013. 가장 많이 사용된 자릿수.vcxproj", "{C316473D-C3C6-4282-9EE5-38F356B02D2E}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "014. 뒤집은 소수", "014. 뒤집은 소수\014. 뒤집은 소수.vcxproj", "{B7992634-E9E2-46A4-B30A-BB8ADCACB83A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -141,6 +143,14 @@ Global
 		{C316473D-C3C6-4282-9EE5-38F356B02D2E}.Release|x64.Build.0 = Release|x64
 		{C316473D-C3C6-4282-9EE5-38F356B02D2E}.Release|x86.ActiveCfg = Release|Win32
 		{C316473D-C3C6-4282-9EE5-38F356B02D2E}.Release|x86.Build.0 = Release|Win32
+		{B7992634-E9E2-46A4-B30A-BB8ADCACB83A}.Debug|x64.ActiveCfg = Debug|x64
+		{B7992634-E9E2-46A4-B30A-BB8ADCACB83A}.Debug|x64.Build.0 = Debug|x64
+		{B7992634-E9E2-46A4-B30A-BB8ADCACB83A}.Debug|x86.ActiveCfg = Debug|Win32
+		{B7992634-E9E2-46A4-B30A-BB8ADCACB83A}.Debug|x86.Build.0 = Debug|Win32
+		{B7992634-E9E2-46A4-B30A-BB8ADCACB83A}.Release|x64.ActiveCfg = Release|x64
+		{B7992634-E9E2-46A4-B30A-BB8ADCACB83A}.Release|x64.Build.0 = Release|x64
+		{B7992634-E9E2-46A4-B30A-BB8ADCACB83A}.Release|x86.ActiveCfg = Release|Win32
+		{B7992634-E9E2-46A4-B30A-BB8ADCACB83A}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
