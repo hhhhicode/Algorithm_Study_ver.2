@@ -39,6 +39,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "017. 선생님 퀴즈", "01
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "018. 층간소음", "018. 층간소음\018. 층간소음.vcxproj", "{BE56A6CA-9472-4F32-8F11-CD6A310E982B}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "019. 분노 유발자", "019. 분노 유발자\019. 분노 유발자.vcxproj", "{460592C6-E63B-48BE-B119-F818D74812BA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -191,6 +193,14 @@ Global
 		{BE56A6CA-9472-4F32-8F11-CD6A310E982B}.Release|x64.Build.0 = Release|x64
 		{BE56A6CA-9472-4F32-8F11-CD6A310E982B}.Release|x86.ActiveCfg = Release|Win32
 		{BE56A6CA-9472-4F32-8F11-CD6A310E982B}.Release|x86.Build.0 = Release|Win32
+		{460592C6-E63B-48BE-B119-F818D74812BA}.Debug|x64.ActiveCfg = Debug|x64
+		{460592C6-E63B-48BE-B119-F818D74812BA}.Debug|x64.Build.0 = Debug|x64
+		{460592C6-E63B-48BE-B119-F818D74812BA}.Debug|x86.ActiveCfg = Debug|Win32
+		{460592C6-E63B-48BE-B119-F818D74812BA}.Debug|x86.Build.0 = Debug|Win32
+		{460592C6-E63B-48BE-B119-F818D74812BA}.Release|x64.ActiveCfg = Release|x64
+		{460592C6-E63B-48BE-B119-F818D74812BA}.Release|x64.Build.0 = Release|x64
+		{460592C6-E63B-48BE-B119-F818D74812BA}.Release|x86.ActiveCfg = Release|Win32
+		{460592C6-E63B-48BE-B119-F818D74812BA}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
