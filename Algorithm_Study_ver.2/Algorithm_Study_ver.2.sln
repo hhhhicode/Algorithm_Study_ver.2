@@ -37,6 +37,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "016. Anagram(아나그램 �
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "017. 선생님 퀴즈", "017. 선생님 퀴즈\017. 선생님 퀴즈.vcxproj", "{4FBBF06A-9B41-4BAB-89F7-DE6CD274B9E5}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "018. 층간소음", "018. 층간소음\018. 층간소음.vcxproj", "{BE56A6CA-9472-4F32-8F11-CD6A310E982B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -181,6 +183,14 @@ Global
 		{4FBBF06A-9B41-4BAB-89F7-DE6CD274B9E5}.Release|x64.Build.0 = Release|x64
 		{4FBBF06A-9B41-4BAB-89F7-DE6CD274B9E5}.Release|x86.ActiveCfg = Release|Win32
 		{4FBBF06A-9B41-4BAB-89F7-DE6CD274B9E5}.Release|x86.Build.0 = Release|Win32
+		{BE56A6CA-9472-4F32-8F11-CD6A310E982B}.Debug|x64.ActiveCfg = Debug|x64
+		{BE56A6CA-9472-4F32-8F11-CD6A310E982B}.Debug|x64.Build.0 = Debug|x64
+		{BE56A6CA-9472-4F32-8F11-CD6A310E982B}.Debug|x86.ActiveCfg = Debug|Win32
+		{BE56A6CA-9472-4F32-8F11-CD6A310E982B}.Debug|x86.Build.0 = Debug|Win32
+		{BE56A6CA-9472-4F32-8F11-CD6A310E982B}.Release|x64.ActiveCfg = Release|x64
+		{BE56A6CA-9472-4F32-8F11-CD6A310E982B}.Release|x64.Build.0 = Release|x64
+		{BE56A6CA-9472-4F32-8F11-CD6A310E982B}.Release|x86.ActiveCfg = Release|Win32
+		{BE56A6CA-9472-4F32-8F11-CD6A310E982B}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
