@@ -35,6 +35,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "015. 소수의 개수", "01
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "016. Anagram(아나그램 구글 인터뷰 문제)", "016. Anagram(아나그램 구글 인터뷰 문제)\016. Anagram(아나그램 구글 인터뷰 문제).vcxproj", "{DB6F54E8-A151-41E4-AFD7-82938DE7A1A5}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "017. 선생님 퀴즈", "017. 선생님 퀴즈\017. 선생님 퀴즈.vcxproj", "{4FBBF06A-9B41-4BAB-89F7-DE6CD274B9E5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -171,6 +173,14 @@ Global
 		{DB6F54E8-A151-41E4-AFD7-82938DE7A1A5}.Release|x64.Build.0 = Release|x64
 		{DB6F54E8-A151-41E4-AFD7-82938DE7A1A5}.Release|x86.ActiveCfg = Release|Win32
 		{DB6F54E8-A151-41E4-AFD7-82938DE7A1A5}.Release|x86.Build.0 = Release|Win32
+		{4FBBF06A-9B41-4BAB-89F7-DE6CD274B9E5}.Debug|x64.ActiveCfg = Debug|x64
+		{4FBBF06A-9B41-4BAB-89F7-DE6CD274B9E5}.Debug|x64.Build.0 = Debug|x64
+		{4FBBF06A-9B41-4BAB-89F7-DE6CD274B9E5}.Debug|x86.ActiveCfg = Debug|Win32
+		{4FBBF06A-9B41-4BAB-89F7-DE6CD274B9E5}.Debug|x86.Build.0 = Debug|Win32
+		{4FBBF06A-9B41-4BAB-89F7-DE6CD274B9E5}.Release|x64.ActiveCfg = Release|x64
+		{4FBBF06A-9B41-4BAB-89F7-DE6CD274B9E5}.Release|x64.Build.0 = Release|x64
+		{4FBBF06A-9B41-4BAB-89F7-DE6CD274B9E5}.Release|x86.ActiveCfg = Release|Win32
+		{4FBBF06A-9B41-4BAB-89F7-DE6CD274B9E5}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
