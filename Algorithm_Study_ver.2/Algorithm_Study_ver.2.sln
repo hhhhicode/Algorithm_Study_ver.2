@@ -43,6 +43,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "019. 분노 유발자", "01
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "020. 가위 바위 보", "020. 가위 바위 보\020. 가위 바위 보.vcxproj", "{FD5459FC-0E9D-490F-8CFB-77FF68FFA5BB}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "021. 카드게임", "021. 카드게임\021. 카드게임.vcxproj", "{67F9DAC2-11D9-4D6E-893A-AAA68CD63089}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -211,6 +213,14 @@ Global
 		{FD5459FC-0E9D-490F-8CFB-77FF68FFA5BB}.Release|x64.Build.0 = Release|x64
 		{FD5459FC-0E9D-490F-8CFB-77FF68FFA5BB}.Release|x86.ActiveCfg = Release|Win32
 		{FD5459FC-0E9D-490F-8CFB-77FF68FFA5BB}.Release|x86.Build.0 = Release|Win32
+		{67F9DAC2-11D9-4D6E-893A-AAA68CD63089}.Debug|x64.ActiveCfg = Debug|x64
+		{67F9DAC2-11D9-4D6E-893A-AAA68CD63089}.Debug|x64.Build.0 = Debug|x64
+		{67F9DAC2-11D9-4D6E-893A-AAA68CD63089}.Debug|x86.ActiveCfg = Debug|Win32
+		{67F9DAC2-11D9-4D6E-893A-AAA68CD63089}.Debug|x86.Build.0 = Debug|Win32
+		{67F9DAC2-11D9-4D6E-893A-AAA68CD63089}.Release|x64.ActiveCfg = Release|x64
+		{67F9DAC2-11D9-4D6E-893A-AAA68CD63089}.Release|x64.Build.0 = Release|x64
+		{67F9DAC2-11D9-4D6E-893A-AAA68CD63089}.Release|x86.ActiveCfg = Release|Win32
+		{67F9DAC2-11D9-4D6E-893A-AAA68CD63089}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
