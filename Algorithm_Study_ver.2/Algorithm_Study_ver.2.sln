@@ -47,6 +47,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "021. 카드게임", "021. �
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "022. 온도의 최대값", "022. 온도의 최대값\022. 온도의 최대값.vcxproj", "{FFF84A69-459A-477F-B3ED-503FA8B4B10D}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "023. 연속 부분 증가수열", "023. 연속 부분 증가수열\023. 연속 부분 증가수열.vcxproj", "{7A17DE62-D42E-41E4-9058-6B7EA7422A0B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -231,6 +233,14 @@ Global
 		{FFF84A69-459A-477F-B3ED-503FA8B4B10D}.Release|x64.Build.0 = Release|x64
 		{FFF84A69-459A-477F-B3ED-503FA8B4B10D}.Release|x86.ActiveCfg = Release|Win32
 		{FFF84A69-459A-477F-B3ED-503FA8B4B10D}.Release|x86.Build.0 = Release|Win32
+		{7A17DE62-D42E-41E4-9058-6B7EA7422A0B}.Debug|x64.ActiveCfg = Debug|x64
+		{7A17DE62-D42E-41E4-9058-6B7EA7422A0B}.Debug|x64.Build.0 = Debug|x64
+		{7A17DE62-D42E-41E4-9058-6B7EA7422A0B}.Debug|x86.ActiveCfg = Debug|Win32
+		{7A17DE62-D42E-41E4-9058-6B7EA7422A0B}.Debug|x86.Build.0 = Debug|Win32
+		{7A17DE62-D42E-41E4-9058-6B7EA7422A0B}.Release|x64.ActiveCfg = Release|x64
+		{7A17DE62-D42E-41E4-9058-6B7EA7422A0B}.Release|x64.Build.0 = Release|x64
+		{7A17DE62-D42E-41E4-9058-6B7EA7422A0B}.Release|x86.ActiveCfg = Release|Win32
+		{7A17DE62-D42E-41E4-9058-6B7EA7422A0B}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
