@@ -63,6 +63,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "029. 3의 개수는(small)"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "030. 3의 개수는(large)", "030. 3의 개수는(large)\030. 3의 개수는(large).vcxproj", "{7C8FD1CD-B8C8-48A5-96FE-B5E2EBA5D87B}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "031. 탄화수소 질량", "031. 탄화수소 질량\031. 탄화수소 질량.vcxproj", "{BDA6FFC0-ED5E-442D-AE5F-5C28917F8A1D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -311,6 +313,14 @@ Global
 		{7C8FD1CD-B8C8-48A5-96FE-B5E2EBA5D87B}.Release|x64.Build.0 = Release|x64
 		{7C8FD1CD-B8C8-48A5-96FE-B5E2EBA5D87B}.Release|x86.ActiveCfg = Release|Win32
 		{7C8FD1CD-B8C8-48A5-96FE-B5E2EBA5D87B}.Release|x86.Build.0 = Release|Win32
+		{BDA6FFC0-ED5E-442D-AE5F-5C28917F8A1D}.Debug|x64.ActiveCfg = Debug|x64
+		{BDA6FFC0-ED5E-442D-AE5F-5C28917F8A1D}.Debug|x64.Build.0 = Debug|x64
+		{BDA6FFC0-ED5E-442D-AE5F-5C28917F8A1D}.Debug|x86.ActiveCfg = Debug|Win32
+		{BDA6FFC0-ED5E-442D-AE5F-5C28917F8A1D}.Debug|x86.Build.0 = Debug|Win32
+		{BDA6FFC0-ED5E-442D-AE5F-5C28917F8A1D}.Release|x64.ActiveCfg = Release|x64
+		{BDA6FFC0-ED5E-442D-AE5F-5C28917F8A1D}.Release|x64.Build.0 = Release|x64
+		{BDA6FFC0-ED5E-442D-AE5F-5C28917F8A1D}.Release|x86.ActiveCfg = Release|Win32
+		{BDA6FFC0-ED5E-442D-AE5F-5C28917F8A1D}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
