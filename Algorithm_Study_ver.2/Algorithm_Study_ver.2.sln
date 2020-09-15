@@ -69,6 +69,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "032. 선택정렬", "032. �
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "033. 3등의 성적은", "033. 3등의 성적은\033. 3등의 성적은.vcxproj", "{A38773B7-AA84-4E96-9A84-FF67B9120BF7}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "034. 버블정렬", "034. 버블정렬\034. 버블정렬.vcxproj", "{36456B25-7CEC-4295-BE88-517B0185D4D3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -341,6 +343,14 @@ Global
 		{A38773B7-AA84-4E96-9A84-FF67B9120BF7}.Release|x64.Build.0 = Release|x64
 		{A38773B7-AA84-4E96-9A84-FF67B9120BF7}.Release|x86.ActiveCfg = Release|Win32
 		{A38773B7-AA84-4E96-9A84-FF67B9120BF7}.Release|x86.Build.0 = Release|Win32
+		{36456B25-7CEC-4295-BE88-517B0185D4D3}.Debug|x64.ActiveCfg = Debug|x64
+		{36456B25-7CEC-4295-BE88-517B0185D4D3}.Debug|x64.Build.0 = Debug|x64
+		{36456B25-7CEC-4295-BE88-517B0185D4D3}.Debug|x86.ActiveCfg = Debug|Win32
+		{36456B25-7CEC-4295-BE88-517B0185D4D3}.Debug|x86.Build.0 = Debug|Win32
+		{36456B25-7CEC-4295-BE88-517B0185D4D3}.Release|x64.ActiveCfg = Release|x64
+		{36456B25-7CEC-4295-BE88-517B0185D4D3}.Release|x64.Build.0 = Release|x64
+		{36456B25-7CEC-4295-BE88-517B0185D4D3}.Release|x86.ActiveCfg = Release|Win32
+		{36456B25-7CEC-4295-BE88-517B0185D4D3}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
