@@ -65,6 +65,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "030. 3의 개수는(large)"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "031. 탄화수소 질량", "031. 탄화수소 질량\031. 탄화수소 질량.vcxproj", "{BDA6FFC0-ED5E-442D-AE5F-5C28917F8A1D}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "032. 선택정렬", "032. 선택정렬\032. 선택정렬.vcxproj", "{4E8FA9BD-A771-4304-B43F-FD3B133B5445}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -321,6 +323,14 @@ Global
 		{BDA6FFC0-ED5E-442D-AE5F-5C28917F8A1D}.Release|x64.Build.0 = Release|x64
 		{BDA6FFC0-ED5E-442D-AE5F-5C28917F8A1D}.Release|x86.ActiveCfg = Release|Win32
 		{BDA6FFC0-ED5E-442D-AE5F-5C28917F8A1D}.Release|x86.Build.0 = Release|Win32
+		{4E8FA9BD-A771-4304-B43F-FD3B133B5445}.Debug|x64.ActiveCfg = Debug|x64
+		{4E8FA9BD-A771-4304-B43F-FD3B133B5445}.Debug|x64.Build.0 = Debug|x64
+		{4E8FA9BD-A771-4304-B43F-FD3B133B5445}.Debug|x86.ActiveCfg = Debug|Win32
+		{4E8FA9BD-A771-4304-B43F-FD3B133B5445}.Debug|x86.Build.0 = Debug|Win32
+		{4E8FA9BD-A771-4304-B43F-FD3B133B5445}.Release|x64.ActiveCfg = Release|x64
+		{4E8FA9BD-A771-4304-B43F-FD3B133B5445}.Release|x64.Build.0 = Release|x64
+		{4E8FA9BD-A771-4304-B43F-FD3B133B5445}.Release|x86.ActiveCfg = Release|Win32
+		{4E8FA9BD-A771-4304-B43F-FD3B133B5445}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
