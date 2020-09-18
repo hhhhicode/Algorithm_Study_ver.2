@@ -83,6 +83,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "039. 두 배열 합치기",
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "040. 교집합(투포인트 알고리즘)", "040. 교집합(투포인트 알고리즘)\040. 교집합(투포인트 알고리즘).vcxproj", "{04699075-B18E-4B0F-95B3-9F1E47FC63FA}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "041. 연속된 자연수의 합", "041. 연속된 자연수의 합\041. 연속된 자연수의 합.vcxproj", "{925B2071-E992-426A-833E-2AFFF28DC5C1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -411,6 +413,14 @@ Global
 		{04699075-B18E-4B0F-95B3-9F1E47FC63FA}.Release|x64.Build.0 = Release|x64
 		{04699075-B18E-4B0F-95B3-9F1E47FC63FA}.Release|x86.ActiveCfg = Release|Win32
 		{04699075-B18E-4B0F-95B3-9F1E47FC63FA}.Release|x86.Build.0 = Release|Win32
+		{925B2071-E992-426A-833E-2AFFF28DC5C1}.Debug|x64.ActiveCfg = Debug|x64
+		{925B2071-E992-426A-833E-2AFFF28DC5C1}.Debug|x64.Build.0 = Debug|x64
+		{925B2071-E992-426A-833E-2AFFF28DC5C1}.Debug|x86.ActiveCfg = Debug|Win32
+		{925B2071-E992-426A-833E-2AFFF28DC5C1}.Debug|x86.Build.0 = Debug|Win32
+		{925B2071-E992-426A-833E-2AFFF28DC5C1}.Release|x64.ActiveCfg = Release|x64
+		{925B2071-E992-426A-833E-2AFFF28DC5C1}.Release|x64.Build.0 = Release|x64
+		{925B2071-E992-426A-833E-2AFFF28DC5C1}.Release|x86.ActiveCfg = Release|Win32
+		{925B2071-E992-426A-833E-2AFFF28DC5C1}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
