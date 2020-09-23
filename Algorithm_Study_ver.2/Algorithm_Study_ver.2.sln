@@ -89,6 +89,10 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "042. 이분검색", "042. �
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "043. 뮤직비디오(이분검색 응용)", "043. 뮤직비디오(이분검색 응용)\043. 뮤직비디오(이분검색 응용).vcxproj", "{96F17557-27B7-494A-BC8C-F3E9EF8A03B1}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "044. 마구간 정하기(이분검색 응용)", "044. 마구간 정하기(이분검색 응용)\044. 마구간 정하기(이분검색 응용).vcxproj", "{FF1621D8-6E9D-4AAC-B11B-D81A94506EC5}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "045. 공주 구하기", "045. 공주 구하기\045. 공주 구하기.vcxproj", "{784FEE7D-57A3-4AC0-AAD9-25BABCB91903}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -441,6 +445,22 @@ Global
 		{96F17557-27B7-494A-BC8C-F3E9EF8A03B1}.Release|x64.Build.0 = Release|x64
 		{96F17557-27B7-494A-BC8C-F3E9EF8A03B1}.Release|x86.ActiveCfg = Release|Win32
 		{96F17557-27B7-494A-BC8C-F3E9EF8A03B1}.Release|x86.Build.0 = Release|Win32
+		{FF1621D8-6E9D-4AAC-B11B-D81A94506EC5}.Debug|x64.ActiveCfg = Debug|x64
+		{FF1621D8-6E9D-4AAC-B11B-D81A94506EC5}.Debug|x64.Build.0 = Debug|x64
+		{FF1621D8-6E9D-4AAC-B11B-D81A94506EC5}.Debug|x86.ActiveCfg = Debug|Win32
+		{FF1621D8-6E9D-4AAC-B11B-D81A94506EC5}.Debug|x86.Build.0 = Debug|Win32
+		{FF1621D8-6E9D-4AAC-B11B-D81A94506EC5}.Release|x64.ActiveCfg = Release|x64
+		{FF1621D8-6E9D-4AAC-B11B-D81A94506EC5}.Release|x64.Build.0 = Release|x64
+		{FF1621D8-6E9D-4AAC-B11B-D81A94506EC5}.Release|x86.ActiveCfg = Release|Win32
+		{FF1621D8-6E9D-4AAC-B11B-D81A94506EC5}.Release|x86.Build.0 = Release|Win32
+		{784FEE7D-57A3-4AC0-AAD9-25BABCB91903}.Debug|x64.ActiveCfg = Debug|x64
+		{784FEE7D-57A3-4AC0-AAD9-25BABCB91903}.Debug|x64.Build.0 = Debug|x64
+		{784FEE7D-57A3-4AC0-AAD9-25BABCB91903}.Debug|x86.ActiveCfg = Debug|Win32
+		{784FEE7D-57A3-4AC0-AAD9-25BABCB91903}.Debug|x86.Build.0 = Debug|Win32
+		{784FEE7D-57A3-4AC0-AAD9-25BABCB91903}.Release|x64.ActiveCfg = Release|x64
+		{784FEE7D-57A3-4AC0-AAD9-25BABCB91903}.Release|x64.Build.0 = Release|x64
+		{784FEE7D-57A3-4AC0-AAD9-25BABCB91903}.Release|x86.ActiveCfg = Release|Win32
+		{784FEE7D-57A3-4AC0-AAD9-25BABCB91903}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
