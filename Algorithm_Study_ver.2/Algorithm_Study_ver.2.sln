@@ -95,6 +95,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "045. 공주 구하기", "04
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "046. 멀티태스킹(카카오 먹방 문제 변형)", "046. 멀티태스킹(카카오 먹방 문제 변형)\046. 멀티태스킹(카카오 먹방 문제 변형).vcxproj", "{4C3BB3B4-211F-4B14-944E-F84FD9054DC9}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "047. 봉우리", "047. 봉우리\047. 봉우리.vcxproj", "{299954C5-EEFF-4B82-8BEC-12B3D38578E3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -471,6 +473,14 @@ Global
 		{4C3BB3B4-211F-4B14-944E-F84FD9054DC9}.Release|x64.Build.0 = Release|x64
 		{4C3BB3B4-211F-4B14-944E-F84FD9054DC9}.Release|x86.ActiveCfg = Release|Win32
 		{4C3BB3B4-211F-4B14-944E-F84FD9054DC9}.Release|x86.Build.0 = Release|Win32
+		{299954C5-EEFF-4B82-8BEC-12B3D38578E3}.Debug|x64.ActiveCfg = Debug|x64
+		{299954C5-EEFF-4B82-8BEC-12B3D38578E3}.Debug|x64.Build.0 = Debug|x64
+		{299954C5-EEFF-4B82-8BEC-12B3D38578E3}.Debug|x86.ActiveCfg = Debug|Win32
+		{299954C5-EEFF-4B82-8BEC-12B3D38578E3}.Debug|x86.Build.0 = Debug|Win32
+		{299954C5-EEFF-4B82-8BEC-12B3D38578E3}.Release|x64.ActiveCfg = Release|x64
+		{299954C5-EEFF-4B82-8BEC-12B3D38578E3}.Release|x64.Build.0 = Release|x64
+		{299954C5-EEFF-4B82-8BEC-12B3D38578E3}.Release|x86.ActiveCfg = Release|Win32
+		{299954C5-EEFF-4B82-8BEC-12B3D38578E3}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
