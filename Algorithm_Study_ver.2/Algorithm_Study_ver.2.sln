@@ -103,6 +103,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "049. 블록의 최댓값", 
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "050. 영지(territory) 선택 (small)", "050. 영지(territory) 선택 (small)\050. 영지(territory) 선택 (small).vcxproj", "{F2B35414-C2E9-46BC-A2FB-313AA12725A4}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "051. 영지(territory) 선택 (large)", "051. 영지(territory) 선택 (large)\051. 영지(territory) 선택 (large).vcxproj", "{DEC3E733-5929-4A3B-B899-B12EDCF0E98B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -511,6 +513,14 @@ Global
 		{F2B35414-C2E9-46BC-A2FB-313AA12725A4}.Release|x64.Build.0 = Release|x64
 		{F2B35414-C2E9-46BC-A2FB-313AA12725A4}.Release|x86.ActiveCfg = Release|Win32
 		{F2B35414-C2E9-46BC-A2FB-313AA12725A4}.Release|x86.Build.0 = Release|Win32
+		{DEC3E733-5929-4A3B-B899-B12EDCF0E98B}.Debug|x64.ActiveCfg = Debug|x64
+		{DEC3E733-5929-4A3B-B899-B12EDCF0E98B}.Debug|x64.Build.0 = Debug|x64
+		{DEC3E733-5929-4A3B-B899-B12EDCF0E98B}.Debug|x86.ActiveCfg = Debug|Win32
+		{DEC3E733-5929-4A3B-B899-B12EDCF0E98B}.Debug|x86.Build.0 = Debug|Win32
+		{DEC3E733-5929-4A3B-B899-B12EDCF0E98B}.Release|x64.ActiveCfg = Release|x64
+		{DEC3E733-5929-4A3B-B899-B12EDCF0E98B}.Release|x64.Build.0 = Release|x64
+		{DEC3E733-5929-4A3B-B899-B12EDCF0E98B}.Release|x86.ActiveCfg = Release|Win32
+		{DEC3E733-5929-4A3B-B899-B12EDCF0E98B}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
