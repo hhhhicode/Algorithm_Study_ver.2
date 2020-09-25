@@ -105,6 +105,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "050. 영지(territory) 선�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "051. 영지(territory) 선택 (large)", "051. 영지(territory) 선택 (large)\051. 영지(territory) 선택 (large).vcxproj", "{DEC3E733-5929-4A3B-B899-B12EDCF0E98B}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "052. Ugly Numbers", "052. Ugly Numbers\052. Ugly Numbers.vcxproj", "{B148A5A7-335E-4C11-AF26-71836B3C9027}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -521,6 +523,14 @@ Global
 		{DEC3E733-5929-4A3B-B899-B12EDCF0E98B}.Release|x64.Build.0 = Release|x64
 		{DEC3E733-5929-4A3B-B899-B12EDCF0E98B}.Release|x86.ActiveCfg = Release|Win32
 		{DEC3E733-5929-4A3B-B899-B12EDCF0E98B}.Release|x86.Build.0 = Release|Win32
+		{B148A5A7-335E-4C11-AF26-71836B3C9027}.Debug|x64.ActiveCfg = Debug|x64
+		{B148A5A7-335E-4C11-AF26-71836B3C9027}.Debug|x64.Build.0 = Debug|x64
+		{B148A5A7-335E-4C11-AF26-71836B3C9027}.Debug|x86.ActiveCfg = Debug|Win32
+		{B148A5A7-335E-4C11-AF26-71836B3C9027}.Debug|x86.Build.0 = Debug|Win32
+		{B148A5A7-335E-4C11-AF26-71836B3C9027}.Release|x64.ActiveCfg = Release|x64
+		{B148A5A7-335E-4C11-AF26-71836B3C9027}.Release|x64.Build.0 = Release|x64
+		{B148A5A7-335E-4C11-AF26-71836B3C9027}.Release|x86.ActiveCfg = Release|Win32
+		{B148A5A7-335E-4C11-AF26-71836B3C9027}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
