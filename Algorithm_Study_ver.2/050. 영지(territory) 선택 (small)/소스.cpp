@@ -48,15 +48,7 @@ public:
 	{
 		auto Sum = [this](const int& iy, const int& jx) -> int
 		{
-			int sum(0);
-			for (int i = 1; i <= iy; i++)
-			{
-				for (int j = 1; j <= jx; j++)
-				{
-					sum += arr[i][j];
-				}
-			}
-			return sum;
+			return sumArr[iy - 1][jx] + sumArr[iy][jx - 1] + arr[iy][jx];
 		};
 
 		auto areaSum = [this](const int& iy, const int& jx) -> int
