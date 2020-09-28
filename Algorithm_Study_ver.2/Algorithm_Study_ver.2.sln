@@ -113,6 +113,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "054. 올바른 괄호(stack
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "055. 기차운행(stack 응용)", "055. 기차운행(stack 응용)\055. 기차운행(stack 응용).vcxproj", "{5AF5D80C-20B9-40EF-92ED-71F8155C42A8}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "056. 재귀함수 분석", "056. 재귀함수 분석\056. 재귀함수 분석.vcxproj", "{E5DA8518-076E-4170-BD85-DB0E12AAAEAB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -561,6 +563,14 @@ Global
 		{5AF5D80C-20B9-40EF-92ED-71F8155C42A8}.Release|x64.Build.0 = Release|x64
 		{5AF5D80C-20B9-40EF-92ED-71F8155C42A8}.Release|x86.ActiveCfg = Release|Win32
 		{5AF5D80C-20B9-40EF-92ED-71F8155C42A8}.Release|x86.Build.0 = Release|Win32
+		{E5DA8518-076E-4170-BD85-DB0E12AAAEAB}.Debug|x64.ActiveCfg = Debug|x64
+		{E5DA8518-076E-4170-BD85-DB0E12AAAEAB}.Debug|x64.Build.0 = Debug|x64
+		{E5DA8518-076E-4170-BD85-DB0E12AAAEAB}.Debug|x86.ActiveCfg = Debug|Win32
+		{E5DA8518-076E-4170-BD85-DB0E12AAAEAB}.Debug|x86.Build.0 = Debug|Win32
+		{E5DA8518-076E-4170-BD85-DB0E12AAAEAB}.Release|x64.ActiveCfg = Release|x64
+		{E5DA8518-076E-4170-BD85-DB0E12AAAEAB}.Release|x64.Build.0 = Release|x64
+		{E5DA8518-076E-4170-BD85-DB0E12AAAEAB}.Release|x86.ActiveCfg = Release|Win32
+		{E5DA8518-076E-4170-BD85-DB0E12AAAEAB}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
