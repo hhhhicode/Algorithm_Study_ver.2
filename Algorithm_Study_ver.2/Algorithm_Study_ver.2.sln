@@ -119,6 +119,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "057. 재귀함수 이진수
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "058. 이진트리 깊이우선탐색(DFS)", "058. 이진트리 깊이우선탐색(DFS)\058. 이진트리 깊이우선탐색(DFS).vcxproj", "{90ADA4BA-7B3F-43E3-9BC4-5DCE45259032}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "059. 부분집합(DFS)", "059. 부분집합(DFS)\059. 부분집합(DFS).vcxproj", "{01E09DEB-8660-40AA-9500-0899B56E2AAA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -591,6 +593,14 @@ Global
 		{90ADA4BA-7B3F-43E3-9BC4-5DCE45259032}.Release|x64.Build.0 = Release|x64
 		{90ADA4BA-7B3F-43E3-9BC4-5DCE45259032}.Release|x86.ActiveCfg = Release|Win32
 		{90ADA4BA-7B3F-43E3-9BC4-5DCE45259032}.Release|x86.Build.0 = Release|Win32
+		{01E09DEB-8660-40AA-9500-0899B56E2AAA}.Debug|x64.ActiveCfg = Debug|x64
+		{01E09DEB-8660-40AA-9500-0899B56E2AAA}.Debug|x64.Build.0 = Debug|x64
+		{01E09DEB-8660-40AA-9500-0899B56E2AAA}.Debug|x86.ActiveCfg = Debug|Win32
+		{01E09DEB-8660-40AA-9500-0899B56E2AAA}.Debug|x86.Build.0 = Debug|Win32
+		{01E09DEB-8660-40AA-9500-0899B56E2AAA}.Release|x64.ActiveCfg = Release|x64
+		{01E09DEB-8660-40AA-9500-0899B56E2AAA}.Release|x64.Build.0 = Release|x64
+		{01E09DEB-8660-40AA-9500-0899B56E2AAA}.Release|x86.ActiveCfg = Release|Win32
+		{01E09DEB-8660-40AA-9500-0899B56E2AAA}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
