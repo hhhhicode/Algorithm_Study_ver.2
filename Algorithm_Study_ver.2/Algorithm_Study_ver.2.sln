@@ -127,6 +127,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "061. 특정 수 만들기(D
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "062. 병합정렬", "062. 병합정렬\062. 병합정렬.vcxproj", "{8F76AC9A-658A-4821-8E6D-B62B7917A3C6}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "063. 인접행렬(가중치 방향그래프)", "063. 인접행렬(가중치 방향그래프)\063. 인접행렬(가중치 방향그래프).vcxproj", "{D6B0418F-CC16-4FEA-AC07-D79DD985E5FA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -631,6 +633,14 @@ Global
 		{8F76AC9A-658A-4821-8E6D-B62B7917A3C6}.Release|x64.Build.0 = Release|x64
 		{8F76AC9A-658A-4821-8E6D-B62B7917A3C6}.Release|x86.ActiveCfg = Release|Win32
 		{8F76AC9A-658A-4821-8E6D-B62B7917A3C6}.Release|x86.Build.0 = Release|Win32
+		{D6B0418F-CC16-4FEA-AC07-D79DD985E5FA}.Debug|x64.ActiveCfg = Debug|x64
+		{D6B0418F-CC16-4FEA-AC07-D79DD985E5FA}.Debug|x64.Build.0 = Debug|x64
+		{D6B0418F-CC16-4FEA-AC07-D79DD985E5FA}.Debug|x86.ActiveCfg = Debug|Win32
+		{D6B0418F-CC16-4FEA-AC07-D79DD985E5FA}.Debug|x86.Build.0 = Debug|Win32
+		{D6B0418F-CC16-4FEA-AC07-D79DD985E5FA}.Release|x64.ActiveCfg = Release|x64
+		{D6B0418F-CC16-4FEA-AC07-D79DD985E5FA}.Release|x64.Build.0 = Release|x64
+		{D6B0418F-CC16-4FEA-AC07-D79DD985E5FA}.Release|x86.ActiveCfg = Release|Win32
+		{D6B0418F-CC16-4FEA-AC07-D79DD985E5FA}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
