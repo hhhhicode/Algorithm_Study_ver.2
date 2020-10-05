@@ -135,6 +135,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "065. 미로탐색(DFS)", "0
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "066. 경로 탐색(DFS 인접리스트 방법)", "066. 경로 탐색(DFS 인접리스트 방법)\066. 경로 탐색(DFS 인접리스트 방법).vcxproj", "{FD3AE8A6-2055-4538-8506-BB5ACA6ADCDC}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "067. 최소비용(DFS 인접행렬)", "067. 최소비용(DFS 인접행렬)\067. 최소비용(DFS 인접행렬).vcxproj", "{34757500-D24C-4847-AA99-F16906568574}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -671,6 +673,14 @@ Global
 		{FD3AE8A6-2055-4538-8506-BB5ACA6ADCDC}.Release|x64.Build.0 = Release|x64
 		{FD3AE8A6-2055-4538-8506-BB5ACA6ADCDC}.Release|x86.ActiveCfg = Release|Win32
 		{FD3AE8A6-2055-4538-8506-BB5ACA6ADCDC}.Release|x86.Build.0 = Release|Win32
+		{34757500-D24C-4847-AA99-F16906568574}.Debug|x64.ActiveCfg = Debug|x64
+		{34757500-D24C-4847-AA99-F16906568574}.Debug|x64.Build.0 = Debug|x64
+		{34757500-D24C-4847-AA99-F16906568574}.Debug|x86.ActiveCfg = Debug|Win32
+		{34757500-D24C-4847-AA99-F16906568574}.Debug|x86.Build.0 = Debug|Win32
+		{34757500-D24C-4847-AA99-F16906568574}.Release|x64.ActiveCfg = Release|x64
+		{34757500-D24C-4847-AA99-F16906568574}.Release|x64.Build.0 = Release|x64
+		{34757500-D24C-4847-AA99-F16906568574}.Release|x86.ActiveCfg = Release|Win32
+		{34757500-D24C-4847-AA99-F16906568574}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
