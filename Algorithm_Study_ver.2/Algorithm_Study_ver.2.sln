@@ -159,6 +159,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "077. 친구인가 (Unionz_F
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "078. 원더랜드(Kruskal MST 알고리즘 Union_Find 활용)", "078. 원더랜드(Kruskal MST 알고리즘 Union_Find 활용)\078. 원더랜드(Kruskal MST 알고리즘 Union_Find 활용).vcxproj", "{724E2832-34AF-4023-AD90-395C59CB05B1}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "079. 원더랜드(Prim MST 알고리즘 priority_queue 활용)", "079. 원더랜드(Prim MST 알고리즘 priority_queue 활용)\079. 원더랜드(Prim MST 알고리즘 priority_queue 활용).vcxproj", "{A3A7DD87-73EA-4455-AC41-551C0A4C3095}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -791,6 +793,14 @@ Global
 		{724E2832-34AF-4023-AD90-395C59CB05B1}.Release|x64.Build.0 = Release|x64
 		{724E2832-34AF-4023-AD90-395C59CB05B1}.Release|x86.ActiveCfg = Release|Win32
 		{724E2832-34AF-4023-AD90-395C59CB05B1}.Release|x86.Build.0 = Release|Win32
+		{A3A7DD87-73EA-4455-AC41-551C0A4C3095}.Debug|x64.ActiveCfg = Debug|x64
+		{A3A7DD87-73EA-4455-AC41-551C0A4C3095}.Debug|x64.Build.0 = Debug|x64
+		{A3A7DD87-73EA-4455-AC41-551C0A4C3095}.Debug|x86.ActiveCfg = Debug|Win32
+		{A3A7DD87-73EA-4455-AC41-551C0A4C3095}.Debug|x86.Build.0 = Debug|Win32
+		{A3A7DD87-73EA-4455-AC41-551C0A4C3095}.Release|x64.ActiveCfg = Release|x64
+		{A3A7DD87-73EA-4455-AC41-551C0A4C3095}.Release|x64.Build.0 = Release|x64
+		{A3A7DD87-73EA-4455-AC41-551C0A4C3095}.Release|x86.ActiveCfg = Release|Win32
+		{A3A7DD87-73EA-4455-AC41-551C0A4C3095}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
