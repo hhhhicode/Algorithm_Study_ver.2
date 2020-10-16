@@ -42,7 +42,7 @@ class Problem
 private:
 	int _n, _m;		// n : 정점 개수, m : 
 	dTT dis = nullptr;
-	std::vector<Edge>* edge;
+	std::vector<Edge>* edge = nullptr;
 	
 
 public:
@@ -67,7 +67,8 @@ public:
 			for (int i = 0, v1, v2, cost; i < _m; i++)
 			{
 				std::cin >> v1 >> v2 >> cost;
-				edge[v1].push_back(Edge(v2, cost));
+				// edge[v1].push_back(Edge(v2, cost));
+				edge[v1].emplace_back(Edge(v2, cost));
 			}
 		};
 
