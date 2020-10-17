@@ -163,6 +163,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "079. 원더랜드(Prim MST 
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "080. 다익스트라 알고리즘", "080. 다익스트라 알고리즘\080. 다익스트라 알고리즘.vcxproj", "{395E630C-7D2F-4866-8F96-0EC53F925270}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "081. 벨만-포드 알고리즘", "081. 벨만-포드 알고리즘\081. 벨만-포드 알고리즘.vcxproj", "{D29CE68C-A202-4F43-8011-880C5D0F4DCC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -811,6 +813,14 @@ Global
 		{395E630C-7D2F-4866-8F96-0EC53F925270}.Release|x64.Build.0 = Release|x64
 		{395E630C-7D2F-4866-8F96-0EC53F925270}.Release|x86.ActiveCfg = Release|Win32
 		{395E630C-7D2F-4866-8F96-0EC53F925270}.Release|x86.Build.0 = Release|Win32
+		{D29CE68C-A202-4F43-8011-880C5D0F4DCC}.Debug|x64.ActiveCfg = Debug|x64
+		{D29CE68C-A202-4F43-8011-880C5D0F4DCC}.Debug|x64.Build.0 = Debug|x64
+		{D29CE68C-A202-4F43-8011-880C5D0F4DCC}.Debug|x86.ActiveCfg = Debug|Win32
+		{D29CE68C-A202-4F43-8011-880C5D0F4DCC}.Debug|x86.Build.0 = Debug|Win32
+		{D29CE68C-A202-4F43-8011-880C5D0F4DCC}.Release|x64.ActiveCfg = Release|x64
+		{D29CE68C-A202-4F43-8011-880C5D0F4DCC}.Release|x64.Build.0 = Release|x64
+		{D29CE68C-A202-4F43-8011-880C5D0F4DCC}.Release|x86.ActiveCfg = Release|Win32
+		{D29CE68C-A202-4F43-8011-880C5D0F4DCC}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
