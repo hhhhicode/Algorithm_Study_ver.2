@@ -165,6 +165,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "080. 다익스트라 알고
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "081. 벨만-포드 알고리즘", "081. 벨만-포드 알고리즘\081. 벨만-포드 알고리즘.vcxproj", "{D29CE68C-A202-4F43-8011-880C5D0F4DCC}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "082. 순열구하기(DFS Depth First Search)", "082. 순열구하기(DFS Depth First Search)\082. 순열구하기(DFS Depth First Search).vcxproj", "{6C561EB6-BC21-445C-AC6C-B0E089C9B68F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -821,6 +823,14 @@ Global
 		{D29CE68C-A202-4F43-8011-880C5D0F4DCC}.Release|x64.Build.0 = Release|x64
 		{D29CE68C-A202-4F43-8011-880C5D0F4DCC}.Release|x86.ActiveCfg = Release|Win32
 		{D29CE68C-A202-4F43-8011-880C5D0F4DCC}.Release|x86.Build.0 = Release|Win32
+		{6C561EB6-BC21-445C-AC6C-B0E089C9B68F}.Debug|x64.ActiveCfg = Debug|x64
+		{6C561EB6-BC21-445C-AC6C-B0E089C9B68F}.Debug|x64.Build.0 = Debug|x64
+		{6C561EB6-BC21-445C-AC6C-B0E089C9B68F}.Debug|x86.ActiveCfg = Debug|Win32
+		{6C561EB6-BC21-445C-AC6C-B0E089C9B68F}.Debug|x86.Build.0 = Debug|Win32
+		{6C561EB6-BC21-445C-AC6C-B0E089C9B68F}.Release|x64.ActiveCfg = Release|x64
+		{6C561EB6-BC21-445C-AC6C-B0E089C9B68F}.Release|x64.Build.0 = Release|x64
+		{6C561EB6-BC21-445C-AC6C-B0E089C9B68F}.Release|x86.ActiveCfg = Release|Win32
+		{6C561EB6-BC21-445C-AC6C-B0E089C9B68F}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
