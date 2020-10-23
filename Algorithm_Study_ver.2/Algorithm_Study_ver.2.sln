@@ -171,7 +171,9 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "083. 복면산 SEND+MORE=MO
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "084. 휴가(삼성 SW역량평가 기출문제 DFS활용)", "084. 휴가(삼성 SW역량평가 기출문제 DFS활용)\084. 휴가(삼성 SW역량평가 기출문제 DFS활용).vcxproj", "{77CAFE2C-9419-4D69-8281-3DDD7F392FAB}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "85. 수식만들기(삼성 SW역량평가 기출문제 DFS활용)", "85. 수식만들기(삼성 SW역량평가 기출문제 DFS활용)\85. 수식만들기(삼성 SW역량평가 기출문제 DFS활용).vcxproj", "{C909B797-8901-4D0A-B9CA-B3B14FB6631C}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "085. 수식만들기(삼성 SW역량평가 기출문제 DFS활용)", "85. 수식만들기(삼성 SW역량평가 기출문제 DFS활용)\85. 수식만들기(삼성 SW역량평가 기출문제 DFS활용).vcxproj", "{C909B797-8901-4D0A-B9CA-B3B14FB6631C}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "86. 피자 배달 거리(삼성 SW역량평가 기출문제 DFS활용)", "86. 피자 배달 거리(삼성 SW역량평가 기출문제 DFS활용)\86. 피자 배달 거리(삼성 SW역량평가 기출문제 DFS활용).vcxproj", "{DE3FEE32-E6FE-4CD3-B721-35DE61A57837}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -861,6 +863,14 @@ Global
 		{C909B797-8901-4D0A-B9CA-B3B14FB6631C}.Release|x64.Build.0 = Release|x64
 		{C909B797-8901-4D0A-B9CA-B3B14FB6631C}.Release|x86.ActiveCfg = Release|Win32
 		{C909B797-8901-4D0A-B9CA-B3B14FB6631C}.Release|x86.Build.0 = Release|Win32
+		{DE3FEE32-E6FE-4CD3-B721-35DE61A57837}.Debug|x64.ActiveCfg = Debug|x64
+		{DE3FEE32-E6FE-4CD3-B721-35DE61A57837}.Debug|x64.Build.0 = Debug|x64
+		{DE3FEE32-E6FE-4CD3-B721-35DE61A57837}.Debug|x86.ActiveCfg = Debug|Win32
+		{DE3FEE32-E6FE-4CD3-B721-35DE61A57837}.Debug|x86.Build.0 = Debug|Win32
+		{DE3FEE32-E6FE-4CD3-B721-35DE61A57837}.Release|x64.ActiveCfg = Release|x64
+		{DE3FEE32-E6FE-4CD3-B721-35DE61A57837}.Release|x64.Build.0 = Release|x64
+		{DE3FEE32-E6FE-4CD3-B721-35DE61A57837}.Release|x86.ActiveCfg = Release|Win32
+		{DE3FEE32-E6FE-4CD3-B721-35DE61A57837}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
