@@ -177,6 +177,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "086. 피자 배달 거리(�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "087. 섬나라 아일랜드(BFS 활용)", "087. 섬나라 아일랜드(BFS 활용)\087. 섬나라 아일랜드(BFS 활용).vcxproj", "{89348C75-9A7B-4431-A07A-BE2398465469}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "088. 미로의 최단거리 통로(BFS 활용)", "088. 미로의 최단거리 통로(BFS 활용)\088. 미로의 최단거리 통로(BFS 활용).vcxproj", "{2001F1D0-13B6-472B-BC0B-BC60CE31F91F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -881,6 +883,14 @@ Global
 		{89348C75-9A7B-4431-A07A-BE2398465469}.Release|x64.Build.0 = Release|x64
 		{89348C75-9A7B-4431-A07A-BE2398465469}.Release|x86.ActiveCfg = Release|Win32
 		{89348C75-9A7B-4431-A07A-BE2398465469}.Release|x86.Build.0 = Release|Win32
+		{2001F1D0-13B6-472B-BC0B-BC60CE31F91F}.Debug|x64.ActiveCfg = Debug|x64
+		{2001F1D0-13B6-472B-BC0B-BC60CE31F91F}.Debug|x64.Build.0 = Debug|x64
+		{2001F1D0-13B6-472B-BC0B-BC60CE31F91F}.Debug|x86.ActiveCfg = Debug|Win32
+		{2001F1D0-13B6-472B-BC0B-BC60CE31F91F}.Debug|x86.Build.0 = Debug|Win32
+		{2001F1D0-13B6-472B-BC0B-BC60CE31F91F}.Release|x64.ActiveCfg = Release|x64
+		{2001F1D0-13B6-472B-BC0B-BC60CE31F91F}.Release|x64.Build.0 = Release|x64
+		{2001F1D0-13B6-472B-BC0B-BC60CE31F91F}.Release|x86.ActiveCfg = Release|Win32
+		{2001F1D0-13B6-472B-BC0B-BC60CE31F91F}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
