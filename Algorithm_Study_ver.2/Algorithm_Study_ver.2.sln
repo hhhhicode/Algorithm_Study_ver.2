@@ -183,6 +183,10 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "089. 토마토(BFS 활용)"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "090. 라이언 킹 심바(삼성 SW역량평가 기출 BFS활용)", "090. 라이언 킹 심바(삼성 SW역량평가 기출 BFS활용)\090. 라이언 킹 심바(삼성 SW역량평가 기출 BFS활용).vcxproj", "{E623173C-6893-49C6-AA9C-9EE281D4105C}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "091. 동적계획법이란 네트워크 선 자르기(Bottom-Up)", "091. 동적계획법이란 네트워크 선 자르기(Bottom-Up)\091. 동적계획법이란 네트워크 선 자르기(Bottom-Up).vcxproj", "{D992749B-454F-4050-BCA2-A36A6F7473F1}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "092. 네트워크 선 자르기(Top-Down 재귀, 메모이제이션)", "092. 네트워크 선 자르기(Top-Down 재귀, 메모이제이션)\092. 네트워크 선 자르기(Top-Down 재귀, 메모이제이션).vcxproj", "{3CC36E1B-2AA0-4D1E-940B-49953CC7BA69}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -911,6 +915,22 @@ Global
 		{E623173C-6893-49C6-AA9C-9EE281D4105C}.Release|x64.Build.0 = Release|x64
 		{E623173C-6893-49C6-AA9C-9EE281D4105C}.Release|x86.ActiveCfg = Release|Win32
 		{E623173C-6893-49C6-AA9C-9EE281D4105C}.Release|x86.Build.0 = Release|Win32
+		{D992749B-454F-4050-BCA2-A36A6F7473F1}.Debug|x64.ActiveCfg = Debug|x64
+		{D992749B-454F-4050-BCA2-A36A6F7473F1}.Debug|x64.Build.0 = Debug|x64
+		{D992749B-454F-4050-BCA2-A36A6F7473F1}.Debug|x86.ActiveCfg = Debug|Win32
+		{D992749B-454F-4050-BCA2-A36A6F7473F1}.Debug|x86.Build.0 = Debug|Win32
+		{D992749B-454F-4050-BCA2-A36A6F7473F1}.Release|x64.ActiveCfg = Release|x64
+		{D992749B-454F-4050-BCA2-A36A6F7473F1}.Release|x64.Build.0 = Release|x64
+		{D992749B-454F-4050-BCA2-A36A6F7473F1}.Release|x86.ActiveCfg = Release|Win32
+		{D992749B-454F-4050-BCA2-A36A6F7473F1}.Release|x86.Build.0 = Release|Win32
+		{3CC36E1B-2AA0-4D1E-940B-49953CC7BA69}.Debug|x64.ActiveCfg = Debug|x64
+		{3CC36E1B-2AA0-4D1E-940B-49953CC7BA69}.Debug|x64.Build.0 = Debug|x64
+		{3CC36E1B-2AA0-4D1E-940B-49953CC7BA69}.Debug|x86.ActiveCfg = Debug|Win32
+		{3CC36E1B-2AA0-4D1E-940B-49953CC7BA69}.Debug|x86.Build.0 = Debug|Win32
+		{3CC36E1B-2AA0-4D1E-940B-49953CC7BA69}.Release|x64.ActiveCfg = Release|x64
+		{3CC36E1B-2AA0-4D1E-940B-49953CC7BA69}.Release|x64.Build.0 = Release|x64
+		{3CC36E1B-2AA0-4D1E-940B-49953CC7BA69}.Release|x86.ActiveCfg = Release|Win32
+		{3CC36E1B-2AA0-4D1E-940B-49953CC7BA69}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
