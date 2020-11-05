@@ -189,6 +189,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "092. 네트워크 선 자�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "095. 최대 부분 증가수열", "095. 최대 부분 증가수열\095. 최대 부분 증가수열.vcxproj", "{E1E15870-876E-41F2-AF43-7E090EA9612E}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "096. 최대 선 연결하기", "096. 최대 선 연결하기\096. 최대 선 연결하기.vcxproj", "{19AFE9FE-B6C2-41E1-8834-3AF44439CE58}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -941,6 +943,14 @@ Global
 		{E1E15870-876E-41F2-AF43-7E090EA9612E}.Release|x64.Build.0 = Release|x64
 		{E1E15870-876E-41F2-AF43-7E090EA9612E}.Release|x86.ActiveCfg = Release|Win32
 		{E1E15870-876E-41F2-AF43-7E090EA9612E}.Release|x86.Build.0 = Release|Win32
+		{19AFE9FE-B6C2-41E1-8834-3AF44439CE58}.Debug|x64.ActiveCfg = Debug|x64
+		{19AFE9FE-B6C2-41E1-8834-3AF44439CE58}.Debug|x64.Build.0 = Debug|x64
+		{19AFE9FE-B6C2-41E1-8834-3AF44439CE58}.Debug|x86.ActiveCfg = Debug|Win32
+		{19AFE9FE-B6C2-41E1-8834-3AF44439CE58}.Debug|x86.Build.0 = Debug|Win32
+		{19AFE9FE-B6C2-41E1-8834-3AF44439CE58}.Release|x64.ActiveCfg = Release|x64
+		{19AFE9FE-B6C2-41E1-8834-3AF44439CE58}.Release|x64.Build.0 = Release|x64
+		{19AFE9FE-B6C2-41E1-8834-3AF44439CE58}.Release|x86.ActiveCfg = Release|Win32
+		{19AFE9FE-B6C2-41E1-8834-3AF44439CE58}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
