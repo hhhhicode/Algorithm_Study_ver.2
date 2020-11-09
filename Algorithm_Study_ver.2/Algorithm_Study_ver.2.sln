@@ -201,6 +201,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "100. 가방문제(냅색 �
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "101. 동전교환", "101. 동전교환\101. 동전교환.vcxproj", "{8162CBA0-F344-4936-A673-3A6A784496DD}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "102. 최대점수 구하기(냅색 알고리즘)", "102. 최대점수 구하기(냅색 알고리즘)\102. 최대점수 구하기(냅색 알고리즘).vcxproj", "{A6A334B6-7B4E-4F7F-A952-2D6514722382}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -1001,6 +1003,14 @@ Global
 		{8162CBA0-F344-4936-A673-3A6A784496DD}.Release|x64.Build.0 = Release|x64
 		{8162CBA0-F344-4936-A673-3A6A784496DD}.Release|x86.ActiveCfg = Release|Win32
 		{8162CBA0-F344-4936-A673-3A6A784496DD}.Release|x86.Build.0 = Release|Win32
+		{A6A334B6-7B4E-4F7F-A952-2D6514722382}.Debug|x64.ActiveCfg = Debug|x64
+		{A6A334B6-7B4E-4F7F-A952-2D6514722382}.Debug|x64.Build.0 = Debug|x64
+		{A6A334B6-7B4E-4F7F-A952-2D6514722382}.Debug|x86.ActiveCfg = Debug|Win32
+		{A6A334B6-7B4E-4F7F-A952-2D6514722382}.Debug|x86.Build.0 = Debug|Win32
+		{A6A334B6-7B4E-4F7F-A952-2D6514722382}.Release|x64.ActiveCfg = Release|x64
+		{A6A334B6-7B4E-4F7F-A952-2D6514722382}.Release|x64.Build.0 = Release|x64
+		{A6A334B6-7B4E-4F7F-A952-2D6514722382}.Release|x86.ActiveCfg = Release|Win32
+		{A6A334B6-7B4E-4F7F-A952-2D6514722382}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
