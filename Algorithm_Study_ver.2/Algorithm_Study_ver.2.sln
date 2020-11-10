@@ -205,6 +205,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "102. 최대점수 구하기
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "103. 플로이드 워샬 알고리즘", "103. 플로이드 워샬 알고리즘\103. 플로이드 워샬 알고리즘.vcxproj", "{7916BCDF-5B87-4D47-A4D5-8BA8D56AA82B}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "104. 회장뽑기(플로이드-워샬 응용)", "104. 회장뽑기(플로이드-워샬 응용)\104. 회장뽑기(플로이드-워샬 응용).vcxproj", "{94190976-1411-4D17-98D6-4F88C2D4BCD6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -1021,6 +1023,14 @@ Global
 		{7916BCDF-5B87-4D47-A4D5-8BA8D56AA82B}.Release|x64.Build.0 = Release|x64
 		{7916BCDF-5B87-4D47-A4D5-8BA8D56AA82B}.Release|x86.ActiveCfg = Release|Win32
 		{7916BCDF-5B87-4D47-A4D5-8BA8D56AA82B}.Release|x86.Build.0 = Release|Win32
+		{94190976-1411-4D17-98D6-4F88C2D4BCD6}.Debug|x64.ActiveCfg = Debug|x64
+		{94190976-1411-4D17-98D6-4F88C2D4BCD6}.Debug|x64.Build.0 = Debug|x64
+		{94190976-1411-4D17-98D6-4F88C2D4BCD6}.Debug|x86.ActiveCfg = Debug|Win32
+		{94190976-1411-4D17-98D6-4F88C2D4BCD6}.Debug|x86.Build.0 = Debug|Win32
+		{94190976-1411-4D17-98D6-4F88C2D4BCD6}.Release|x64.ActiveCfg = Release|x64
+		{94190976-1411-4D17-98D6-4F88C2D4BCD6}.Release|x64.Build.0 = Release|x64
+		{94190976-1411-4D17-98D6-4F88C2D4BCD6}.Release|x86.ActiveCfg = Release|Win32
+		{94190976-1411-4D17-98D6-4F88C2D4BCD6}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
