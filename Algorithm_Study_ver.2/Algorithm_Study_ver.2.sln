@@ -209,6 +209,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "104. 회장뽑기(플로이
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "105. 위상정렬(그래프 정렬)", "105. 위상정렬(그래프 정렬)\105. 위상정렬(그래프 정렬).vcxproj", "{674C33AC-FBB0-45EC-9B75-850A3A6E36B9}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "틀린문제_012. 12. 숫자의 총 개수(large)", "틀린문제_012. 12. 숫자의 총 개수(large)\틀린문제_012. 12. 숫자의 총 개수(large).vcxproj", "{632F6CB1-1FC6-43A6-BCC2-6433A3017920}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -1041,6 +1043,14 @@ Global
 		{674C33AC-FBB0-45EC-9B75-850A3A6E36B9}.Release|x64.Build.0 = Release|x64
 		{674C33AC-FBB0-45EC-9B75-850A3A6E36B9}.Release|x86.ActiveCfg = Release|Win32
 		{674C33AC-FBB0-45EC-9B75-850A3A6E36B9}.Release|x86.Build.0 = Release|Win32
+		{632F6CB1-1FC6-43A6-BCC2-6433A3017920}.Debug|x64.ActiveCfg = Debug|x64
+		{632F6CB1-1FC6-43A6-BCC2-6433A3017920}.Debug|x64.Build.0 = Debug|x64
+		{632F6CB1-1FC6-43A6-BCC2-6433A3017920}.Debug|x86.ActiveCfg = Debug|Win32
+		{632F6CB1-1FC6-43A6-BCC2-6433A3017920}.Debug|x86.Build.0 = Debug|Win32
+		{632F6CB1-1FC6-43A6-BCC2-6433A3017920}.Release|x64.ActiveCfg = Release|x64
+		{632F6CB1-1FC6-43A6-BCC2-6433A3017920}.Release|x64.Build.0 = Release|x64
+		{632F6CB1-1FC6-43A6-BCC2-6433A3017920}.Release|x86.ActiveCfg = Release|Win32
+		{632F6CB1-1FC6-43A6-BCC2-6433A3017920}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
